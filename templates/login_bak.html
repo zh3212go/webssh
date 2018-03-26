@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WebSSH</title>
+    <link href="{{ static_url('img/favicon.png') }}" rel="icon" type="image/png">
+    <style type="text/css">
+        header, section, footer, aside, nav, main, article, figure {
+            display: block;
+        }
+        body {
+            background-color: springgreen;
+        }
+
+        h1 {
+            text-align: center;
+            font-family: Verdana;
+            font-size: 40px;
+            color: black;
+        }
+        form {
+            text-align: center;
+            padding: 20px;
+        }
+        span {
+            color: red;
+            font-size: 10px;
+        }
+    </style>
+</head>
+<body>
+<h1>欢迎使用</h1>
+<hr/>
+<form>
+    {% raw xsrf_form_html() %}
+    <p><lable>用户:&nbsp</lable><input type="text" id="username" maxlength="10" placeholder="用户名" title="请输入用户名" autofocus/>&nbsp<span id="username_tip"></span></p>
+    <p><label>密码:&nbsp</label><input type="password" id="password" maxlength="20" placeholder="密码" title="请输入密码"/>&nbsp<span id="password_tip"></span></p>
+    <p><input type="submit" value="登录" id="loginBtn"/></p>
+</form>
+<script src="{{ static_url('js/jquery.min.js') }}"></script>
+<script src="{{ static_url('js/login.js') }}"></script>
+</body>
+</html>

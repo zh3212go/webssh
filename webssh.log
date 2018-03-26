@@ -1,0 +1,1286 @@
+[I 180314 14:59:46 main:30] Listening on 127.0.0.1:8888
+[I 180314 14:59:46 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:01:45 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:01:45 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:02:30 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:02:30 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:03:21 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:03:21 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:04:11 main:30] Listening1 on 127.0.0.1:8888
+[I 180314 15:04:11 main:30] Listening1 on 127.0.0.1:8888
+[I 180314 15:04:18 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:04:18 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:06:12 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:06:12 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:06:46 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:06:46 main:30] Listening on 127.0.0.1:8888
+[I 180314 15:07:51 main:30] Listening on 127.0.0.1:9999
+[I 180314 15:14:26 main:31] Listening on 127.0.0.1:8888
+[I 180314 15:14:26 main:31] Listening on 127.0.0.1:8888
+[I 180314 15:15:11 main:31] Listening on 1:2
+[I 180314 15:15:11 main:31] Listening on 1:2
+[I 180314 15:15:43 main:31] Listening on 1:2
+[I 180314 15:15:43 main:31] Listening on 1:2
+[I 180314 15:16:28 main:31] Listening on 1:2
+[I 180314 15:16:28 main:31] Listening on 1:2
+[I 180314 15:17:42 main:31] Listening on 1:2
+[I 180314 15:17:42 main:31] Listening on 1:2
+[I 180314 15:18:24 main:31] Listening on 1:2
+[I 180314 15:18:24 main:31] Listening on 1:2
+[I 180314 16:26:51 main:28] Listening on 127.0.0.1:8888
+[I 180314 16:28:01 main:28] Listening on 127.0.0.1:8888
+[I 180314 16:31:55 main:28] Listening on 127.0.0.1:8888
+[I 180314 16:34:08 main:28] Listening on 127.0.0.1:8888
+[I 180314 16:40:22 main:28] Listening on 127.0.0.1:8888
+[I 180314 16:41:23 main:28] Listening on 127.0.0.1:8888
+[I 180314 16:53:59 main:31] Listening on 127.0.0.1:8888
+[I 180314 16:54:55 main:31] Listening on 127.0.0.1:8888
+[I 180314 17:00:41 main:28] Read config file from:webssh.conf
+[I 180314 17:00:41 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:01:58 main:28] Load config file from : webssh.conf
+[I 180314 17:01:58 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:07:48 main:28] Load config file from : webssh.conf
+[I 180314 17:07:49 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:10:28 main:28] Load config file from : webssh.conf
+[I 180314 17:10:28 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:10:51 web:2063] 302 GET / (127.0.0.1) 3.00ms
+[I 180314 17:10:51 web:2063] 200 GET /login?next=%2F (127.0.0.1) 7.00ms
+[I 180314 17:11:00 web:2063] 200 POST /login (127.0.0.1) 15.00ms
+[I 180314 17:11:37 main:28] Load config file from : webssh.conf
+[I 180314 17:11:38 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:11:39 web:2063] 200 GET /login?next=%2F (127.0.0.1) 7.00ms
+[I 180314 17:11:43 web:2063] 200 POST /login (127.0.0.1) 15.00ms
+[I 180314 17:11:44 web:2063] 200 GET / (127.0.0.1) 6.00ms
+[W 180314 17:11:44 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:11:44 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:11:44 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:11:44 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 3.00ms
+[W 180314 17:11:44 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:11:48 web:2063] 200 GET / (127.0.0.1) 4.00ms
+[W 180314 17:11:48 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 4.00ms
+[W 180314 17:11:48 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:11:48 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:11:48 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 3.00ms
+[W 180314 17:11:48 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 3.00ms
+[I 180314 17:11:50 web:2063] 302 GET /logout (127.0.0.1) 3.00ms
+[I 180314 17:11:50 web:2063] 302 GET / (127.0.0.1) 2.00ms
+[I 180314 17:11:50 web:2063] 200 GET /login?next=%2F (127.0.0.1) 2.00ms
+[I 180314 17:11:55 web:2063] 200 POST /login (127.0.0.1) 17.00ms
+[I 180314 17:12:00 web:2063] 200 POST /login (127.0.0.1) 19.00ms
+[I 180314 17:12:09 web:2063] 200 POST /login (127.0.0.1) 28.00ms
+[I 180314 17:12:09 web:2063] 200 GET / (127.0.0.1) 4.00ms
+[W 180314 17:12:09 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:09 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:09 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:09 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:12:09 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:12:11 web:2063] 302 GET /logout (127.0.0.1) 2.00ms
+[I 180314 17:12:11 web:2063] 302 GET / (127.0.0.1) 1.00ms
+[I 180314 17:12:11 web:2063] 200 GET /login?next=%2F (127.0.0.1) 2.00ms
+[I 180314 17:12:16 web:2063] 200 POST /login (127.0.0.1) 25.00ms
+[I 180314 17:12:16 web:2063] 200 GET / (127.0.0.1) 2.00ms
+[W 180314 17:12:16 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 4.00ms
+[W 180314 17:12:16 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:16 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:16 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:12:16 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:12:19 web:2063] 200 GET / (127.0.0.1) 4.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 3.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 3.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:12:20 web:2063] 200 GET / (127.0.0.1) 3.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 4.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 3.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 3.00ms
+[I 180314 17:12:20 web:2063] 200 GET / (127.0.0.1) 2.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 3.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:20 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:21 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 3.00ms
+[W 180314 17:12:21 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 3.00ms
+[I 180314 17:12:21 web:2063] 200 GET / (127.0.0.1) 2.00ms
+[W 180314 17:12:21 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:21 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:21 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:21 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:12:21 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:12:49 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:12:49 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:12:49 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:49 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:49 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 3.00ms
+[I 180314 17:12:51 web:2063] 200 GET / (127.0.0.1) 3.00ms
+[W 180314 17:12:51 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 3.00ms
+[W 180314 17:12:51 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:51 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:12:51 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 3.00ms
+[W 180314 17:12:51 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:13:04 web:2063] 200 GET / (127.0.0.1) 3.00ms
+[W 180314 17:13:04 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 3.00ms
+[W 180314 17:13:04 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:04 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:04 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:13:04 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:13:05 web:2063] 200 GET / (127.0.0.1) 6.00ms
+[W 180314 17:13:05 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:05 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:05 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:05 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:13:05 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:13:08 web:2063] 200 GET / (127.0.0.1) 3.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 2.00ms
+[I 180314 17:13:08 web:2063] 200 GET / (127.0.0.1) 3.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/css/bootstrap.min.css.map (127.0.0.1) 3.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/css/xterm.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:08 web:2063] 404 GET /static/css/fullscreen.min.css.map (127.0.0.1) 2.00ms
+[W 180314 17:13:09 web:2063] 404 GET /static/js/popper.min.js.map (127.0.0.1) 2.00ms
+[W 180314 17:13:09 web:2063] 404 GET /static/js/bootstrap.min.js.map (127.0.0.1) 3.00ms
+[I 180314 17:13:30 handlers:122] Connecting to 172.16.33.96:22
+[I 180314 17:13:30 transport:1685] Connected (version 2.0, client OpenSSH_5.3)
+[I 180314 17:13:30 transport:1685] Authentication (publickey) failed.
+[I 180314 17:13:30 transport:1685] Authentication (password) successful!
+[I 180314 17:13:30 web:2063] 200 POST / (127.0.0.1) 363.02ms
+[I 180314 17:13:30 web:2063] 101 GET /ws?id=76545048 (127.0.0.1) 3.00ms
+[I 180314 17:13:30 handlers:197] Connected from 127.0.0.1:6495
+[I 180314 17:14:57 main:28] Load config file from : webssh.conf
+[I 180314 17:14:57 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:15:00 web:2063] 302 GET / (127.0.0.1) 2.00ms
+[I 180314 17:15:00 web:2063] 200 GET /login?next=%2F (127.0.0.1) 5.00ms
+[E 180314 17:15:06 web:1590] Uncaught exception POST /login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='POST', uri='/login', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Host': 'localhost:8888', 'Connection': 'keep-alive', 'Content-Length': '94', 'Accept': '*/*', 'Origin': 'http://localhost:8888', 'X-Requested-With': 'XMLHttpRequest', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Referer': 'http://localhost:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|2c60a62b|9e00a88a09b54eeeaa61c55dc7bdc722|1520995901; username_cookie="2|1:0|10:1521018736|15:username_cookie|4:emg=|ec76f72d7e3cb83397e72d01054d4dc05862c33573782f8915ddabb7b3784740"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh01\handlers.py", line 164, in post
+        user_infos = db.get_all('select * from td_user_info where username = '+ username)
+      File "D:\Study\Python\webssh01\dbutil.py", line 16, in get_all
+        self.cur.execute(sql)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 165, in execute
+        result = self._query(query)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 321, in _query
+        conn.query(q)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 860, in query
+        self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+        result.read()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1349, in read
+        first_packet = self.connection._read_packet()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+        packet.check_error()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 384, in check_error
+        err.raise_mysql_exception(self._data)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+        raise errorclass(errno, errval)
+    pymysql.err.InternalError: (1054, "Unknown column 'zh' in 'where clause'")
+[E 180314 17:15:06 web:2063] 500 POST /login (127.0.0.1) 56.00ms
+[E 180314 17:15:10 web:1590] Uncaught exception POST /login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='POST', uri='/login', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Host': 'localhost:8888', 'Connection': 'keep-alive', 'Content-Length': '94', 'Accept': '*/*', 'Origin': 'http://localhost:8888', 'X-Requested-With': 'XMLHttpRequest', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Referer': 'http://localhost:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|2c60a62b|9e00a88a09b54eeeaa61c55dc7bdc722|1520995901; username_cookie="2|1:0|10:1521018736|15:username_cookie|4:emg=|ec76f72d7e3cb83397e72d01054d4dc05862c33573782f8915ddabb7b3784740"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh01\handlers.py", line 164, in post
+        user_infos = db.get_all('select * from td_user_info where username = '+ username)
+      File "D:\Study\Python\webssh01\dbutil.py", line 16, in get_all
+        self.cur.execute(sql)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 165, in execute
+        result = self._query(query)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 321, in _query
+        conn.query(q)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 860, in query
+        self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+        result.read()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1349, in read
+        first_packet = self.connection._read_packet()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+        packet.check_error()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 384, in check_error
+        err.raise_mysql_exception(self._data)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+        raise errorclass(errno, errval)
+    pymysql.err.InternalError: (1054, "Unknown column 'zh' in 'where clause'")
+[E 180314 17:15:10 web:2063] 500 POST /login (127.0.0.1) 24.00ms
+[I 180314 17:15:14 web:2063] 200 GET /login?next=%2F (127.0.0.1) 4.00ms
+[E 180314 17:15:18 web:1590] Uncaught exception POST /login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='POST', uri='/login', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Host': 'localhost:8888', 'Connection': 'keep-alive', 'Content-Length': '94', 'Accept': '*/*', 'Origin': 'http://localhost:8888', 'X-Requested-With': 'XMLHttpRequest', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Referer': 'http://localhost:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|2c60a62b|9e00a88a09b54eeeaa61c55dc7bdc722|1520995901; username_cookie="2|1:0|10:1521018736|15:username_cookie|4:emg=|ec76f72d7e3cb83397e72d01054d4dc05862c33573782f8915ddabb7b3784740"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh01\handlers.py", line 164, in post
+        user_infos = db.get_all('select * from td_user_info where username = '+ username)
+      File "D:\Study\Python\webssh01\dbutil.py", line 16, in get_all
+        self.cur.execute(sql)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 165, in execute
+        result = self._query(query)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 321, in _query
+        conn.query(q)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 860, in query
+        self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+        result.read()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1349, in read
+        first_packet = self.connection._read_packet()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+        packet.check_error()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 384, in check_error
+        err.raise_mysql_exception(self._data)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+        raise errorclass(errno, errval)
+    pymysql.err.InternalError: (1054, "Unknown column 'sdfs' in 'where clause'")
+[E 180314 17:15:18 web:2063] 500 POST /login (127.0.0.1) 24.00ms
+[I 180314 17:16:31 main:28] Load config file from : webssh.conf
+[I 180314 17:16:31 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:16:39 web:2063] 200 GET /login?next=%2F (127.0.0.1) 6.00ms
+[E 180314 17:16:52 web:1590] Uncaught exception POST /login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='POST', uri='/login', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Host': 'localhost:8888', 'Connection': 'keep-alive', 'Content-Length': '94', 'Accept': '*/*', 'Origin': 'http://localhost:8888', 'X-Requested-With': 'XMLHttpRequest', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Referer': 'http://localhost:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|2c60a62b|9e00a88a09b54eeeaa61c55dc7bdc722|1520995901; username_cookie="2|1:0|10:1521018736|15:username_cookie|4:emg=|ec76f72d7e3cb83397e72d01054d4dc05862c33573782f8915ddabb7b3784740"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh01\handlers.py", line 165, in post
+        user_infos = db.get_all('select * from td_user_info where username = '+ username)
+      File "D:\Study\Python\webssh01\dbutil.py", line 16, in get_all
+        self.cur.execute(sql)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 165, in execute
+        result = self._query(query)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\cursors.py", line 321, in _query
+        conn.query(q)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 860, in query
+        self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+        result.read()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1349, in read
+        first_packet = self.connection._read_packet()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+        packet.check_error()
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\connections.py", line 384, in check_error
+        err.raise_mysql_exception(self._data)
+      File "D:\Study\Python\webssh01\venv\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+        raise errorclass(errno, errval)
+    pymysql.err.InternalError: (1054, "Unknown column 'zh' in 'where clause'")
+[E 180314 17:16:52 web:2063] 500 POST /login (127.0.0.1) 28.00ms
+[I 180314 17:18:42 main:28] Load config file from : webssh.conf
+[I 180314 17:18:43 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:18:46 web:2063] 200 POST /login (127.0.0.1) 20.00ms
+[I 180314 17:19:06 web:2063] 200 GET /login?next=%2F (127.0.0.1) 8.00ms
+[I 180314 17:19:09 web:2063] 200 POST /login (127.0.0.1) 19.00ms
+[I 180314 17:20:51 web:2063] 200 POST /login (127.0.0.1) 23.00ms
+[I 180314 17:20:51 web:2063] 200 GET / (127.0.0.1) 7.00ms
+[I 180314 17:22:31 web:2063] 200 GET / (127.0.0.1) 2.00ms
+[I 180314 17:22:31 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (127.0.0.1) 586.03ms
+[I 180314 17:22:35 main:28] Load config file from : webssh.conf
+[I 180314 17:22:35 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:22:36 web:2063] 302 GET / (127.0.0.1) 6.00ms
+[I 180314 17:22:36 web:2063] 200 GET /login?next=%2F (127.0.0.1) 6.00ms
+[I 180314 17:22:44 web:2063] 200 GET /login (127.0.0.1) 3.00ms
+[I 180314 17:22:46 web:2063] 200 GET /login (127.0.0.1) 3.00ms
+[I 180314 17:22:47 web:2063] 200 GET /login (127.0.0.1) 3.00ms
+[I 180314 17:22:47 web:2063] 200 GET /login (127.0.0.1) 4.00ms
+[I 180314 17:22:47 web:2063] 200 GET /login (127.0.0.1) 3.00ms
+[I 180314 17:22:51 web:2063] 200 POST /login (127.0.0.1) 15.00ms
+[I 180314 17:24:36 main:28] Load config file from : webssh.conf
+[I 180314 17:24:36 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:24:38 web:2063] 200 GET /login (127.0.0.1) 6.00ms
+[I 180314 17:24:38 web:2063] 200 GET /static/js/login.js?v=1cc6225317d787df5769621469364c91 (127.0.0.1) 577.03ms
+[I 180314 17:25:12 main:28] Load config file from : webssh.conf
+[I 180314 17:25:12 main:32] Listening on 127.0.0.1:8888
+[I 180314 17:25:13 web:2063] 200 GET /login (127.0.0.1) 6.00ms
+[I 180314 17:25:20 web:2063] 200 POST /login (127.0.0.1) 20.00ms
+[I 180314 17:25:20 web:2063] 200 GET / (127.0.0.1) 6.00ms
+[I 180314 17:25:21 web:2063] 302 GET /logout (127.0.0.1) 2.00ms
+[I 180314 17:25:21 web:2063] 302 GET / (127.0.0.1) 2.00ms
+[I 180314 17:25:21 web:2063] 200 GET /login?next=%2F (127.0.0.1) 2.00ms
+[I 180314 17:25:26 web:2063] 302 GET / (127.0.0.1) 2.00ms
+[I 180314 17:25:26 web:2063] 200 GET /login?next=%2F (127.0.0.1) 2.00ms
+[I 180314 17:25:29 web:2063] 302 GET / (127.0.0.1) 2.00ms
+[I 180314 17:25:29 web:2063] 200 GET /login?next=%2F (127.0.0.1) 2.00ms
+[I 180314 17:25:38 web:2063] 200 POST /login (127.0.0.1) 26.00ms
+[I 180314 17:25:38 web:2063] 200 GET / (127.0.0.1) 2.00ms
+[I 180315 09:09:18 main:28] Load config file from : webssh.conf
+[I 180315 09:09:18 main:32] Listening on 127.0.0.1:8888
+[I 180315 09:09:58 web:2063] 302 GET / (127.0.0.1) 15.60ms
+[I 180315 09:09:58 web:2063] 200 GET /login?next=%2F (127.0.0.1) 35.20ms
+[W 180315 09:09:58 web:2063] 404 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180315 09:10:44 main:28] Load config file from : webssh.conf
+[I 180315 09:10:44 main:32] Listening on 172.16.33.79:8888
+[I 180315 09:11:02 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180315 09:11:03 web:2063] 200 GET /static/js/jquery.min.js?v=378087a64e1394fc51f300bb9c11878c (172.16.33.79) 550.21ms
+[I 180315 09:11:03 web:2063] 200 GET /static/js/login.js?v=1cc6225317d787df5769621469364c91 (172.16.33.79) 0.00ms
+[W 180315 09:11:03 web:2063] 404 GET /favicon.ico (172.16.33.79) 1.00ms
+[W 180315 09:11:13 web:2063] 404 GET /favicon.ico (172.16.33.95) 15.60ms
+[I 180315 09:11:13 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 09:11:13 web:2063] 200 GET /static/js/jquery.min.js?v=378087a64e1394fc51f300bb9c11878c (172.16.33.95) 0.00ms
+[I 180315 09:11:13 web:2063] 200 GET /static/js/login.js?v=1cc6225317d787df5769621469364c91 (172.16.33.95) 0.00ms
+[W 180315 09:11:13 web:2063] 404 GET /favicon.ico (172.16.33.95) 0.00ms
+[I 180315 09:11:19 web:2063] 200 POST /login (172.16.33.95) 0.00ms
+[I 180315 09:11:25 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 09:11:25 web:2063] 200 GET / (172.16.33.95) 15.60ms
+[I 180315 09:11:25 web:2063] 200 GET /static/css/fullscreen.min.css?v=2ae17f7e19bc0ed8fd3486ed110cdce5 (172.16.33.95) 0.00ms
+[I 180315 09:11:25 web:2063] 200 GET /static/js/popper.min.js?v=b1dbc64f8b1dfe0c089dd55b09bbbc72 (172.16.33.95) 0.00ms
+[I 180315 09:11:25 web:2063] 200 GET /static/js/xterm.min.js?v=99455b9df4fdabf33042967a073e8a94 (172.16.33.95) 15.60ms
+[I 180315 09:11:25 web:2063] 200 GET /static/js/bootstrap.min.js?v=d061ab58270e692309b728296e90bba2 (172.16.33.95) 0.00ms
+[I 180315 09:11:25 web:2063] 200 GET /static/js/fullscreen.min.js?v=bc01408dc7e2d5ad35036730a0a99fc9 (172.16.33.95) 0.00ms
+[I 180315 09:11:25 web:2063] 200 GET /static/js/main.js?v=95b85272e8b95ee5f8c4e0050e02a4bc (172.16.33.95) 15.60ms
+[I 180315 09:11:25 web:2063] 200 GET /static/css/xterm.min.css?v=a9c9531d17671da6ae33aeca1575b75e (172.16.33.95) 0.00ms
+[I 180315 09:11:25 web:2063] 200 GET /static/css/bootstrap.min.css?v=416bb9e03b223eba66e9a3ca5a9da02e (172.16.33.95) 46.80ms
+[I 180315 09:11:25 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 0.00ms
+[I 180315 09:11:32 web:2063] 200 POST /login (172.16.33.79) 12.00ms
+[I 180315 09:11:32 web:2063] 200 GET / (172.16.33.79) 2.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/css/xterm.min.css?v=a9c9531d17671da6ae33aeca1575b75e (172.16.33.79) 3.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/css/fullscreen.min.css?v=2ae17f7e19bc0ed8fd3486ed110cdce5 (172.16.33.79) 2.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/js/popper.min.js?v=b1dbc64f8b1dfe0c089dd55b09bbbc72 (172.16.33.79) 2.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/js/xterm.min.js?v=99455b9df4fdabf33042967a073e8a94 (172.16.33.79) 2.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/js/bootstrap.min.js?v=d061ab58270e692309b728296e90bba2 (172.16.33.79) 3.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/js/fullscreen.min.js?v=bc01408dc7e2d5ad35036730a0a99fc9 (172.16.33.79) 2.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/css/bootstrap.min.css?v=416bb9e03b223eba66e9a3ca5a9da02e (172.16.33.79) 49.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/js/main.js?v=95b85272e8b95ee5f8c4e0050e02a4bc (172.16.33.79) 2.00ms
+[I 180315 09:11:32 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 3.00ms
+[I 180315 09:11:38 web:2063] 302 GET /logout (172.16.33.95) 0.00ms
+[I 180315 09:11:38 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180315 09:11:38 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 09:11:40 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180315 09:11:41 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 09:11:41 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 09:11:43 web:2063] 200 GET / (172.16.33.79) 15.60ms
+[I 180315 09:11:43 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 1.00ms
+[I 180315 09:11:44 web:2063] 200 GET / (172.16.33.79) 0.00ms
+[I 180315 09:11:45 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180315 09:11:45 web:2063] 200 GET / (172.16.33.79) 0.00ms
+[I 180315 09:11:45 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180315 09:11:47 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 09:11:48 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 09:13:55 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 09:14:01 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 09:14:04 web:2063] 200 POST /login (172.16.33.95) 31.20ms
+[I 180315 09:14:09 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 09:28:07 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 09:28:25 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 09:28:31 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 09:28:31 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 09:28:31 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 09:28:31 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 09:28:31 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 15.60ms
+[W 180315 09:28:31 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 09:28:32 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 15.60ms
+[I 180315 10:38:33 main:28] Load config file from : webssh.conf
+[I 180315 10:38:33 main:32] Listening on 172.16.33.79:8888
+[I 180315 10:39:23 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180315 10:39:23 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 10:39:25 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 10:39:25 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 10:39:25 web:2063] 200 GET /login?next=%2F (172.16.33.95) 1.00ms
+[I 180315 10:39:26 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 10:39:26 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 10:39:26 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 10:39:26 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 11:01:20 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 11:01:20 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:01:20 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:01:20 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:01:20 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:01:20 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:01:20 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:01:21 web:2063] 302 GET /logout (172.16.33.95) 0.00ms
+[I 180315 11:01:21 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180315 11:01:21 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 11:01:32 main:28] Load config file from : webssh.conf
+[I 180315 11:01:32 main:32] Listening on 172.16.33.79:8888
+[I 180315 11:01:32 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180315 11:01:53 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 11:01:53 web:2063] 200 GET / (172.16.33.95) 15.60ms
+[W 180315 11:01:53 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:01:53 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 15.60ms
+[W 180315 11:01:53 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:01:53 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:01:53 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 15.60ms
+[I 180315 11:01:54 web:2063] 200 GET /logout (172.16.33.95) 0.00ms
+[I 180315 11:01:54 web:2063] 304 GET /logout (172.16.33.95) 0.00ms
+[I 180315 11:02:02 main:28] Load config file from : webssh.conf
+[I 180315 11:02:02 main:32] Listening on 172.16.33.79:8888
+[I 180315 11:02:03 web:2063] 302 GET /logout (172.16.33.95) 0.00ms
+[I 180315 11:02:03 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180315 11:02:03 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180315 11:02:04 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 11:02:04 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 11:02:04 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 11:02:05 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[W 180315 11:02:10 web:2063] 404 GET /favicon.ico (172.16.33.95) 0.00ms
+[W 180315 11:02:14 web:2063] 404 GET /logout/ (172.16.33.95) 15.60ms
+[I 180315 11:02:18 web:2063] 302 GET /logout (172.16.33.95) 0.00ms
+[I 180315 11:02:18 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180315 11:02:18 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[W 180315 11:02:22 web:2063] 404 GET /login/ (172.16.33.95) 0.00ms
+[I 180315 11:02:28 web:2063] 200 GET /login (172.16.33.95) 0.00ms
+[I 180315 11:02:29 web:2063] 200 GET /login (172.16.33.95) 0.00ms
+[I 180315 11:02:30 web:2063] 200 GET /login (172.16.33.95) 0.00ms
+[I 180315 11:02:30 web:2063] 200 GET /login (172.16.33.95) 0.00ms
+[I 180315 11:02:31 web:2063] 200 GET /login (172.16.33.95) 0.00ms
+[I 180315 11:04:45 main:28] Load config file from : webssh.conf
+[I 180315 11:04:45 main:32] Listening on 172.16.33.79:8888
+[I 180315 11:04:52 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180315 11:04:52 web:2063] 200 GET / (172.16.33.95) 15.60ms
+[W 180315 11:04:52 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:04:52 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:04:52 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:04:52 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:04:52 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:04:58 web:2063] 302 GET / (172.16.33.79) 1.00ms
+[I 180315 11:04:58 web:2063] 200 GET /login?next=%2F (172.16.33.79) 5.00ms
+[I 180315 11:05:04 web:2063] 200 POST /login (172.16.33.79) 20.00ms
+[I 180315 11:05:04 web:2063] 200 GET / (172.16.33.79) 1.00ms
+[I 180315 11:05:06 web:2063] 200 GET / (172.16.33.95) 15.60ms
+[W 180315 11:05:06 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:06 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:06 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 15.60ms
+[W 180315 11:05:06 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:05:06 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:05:07 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:05:07 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:05:07 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:05:09 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:05:09 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:05:09 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:05:09 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:05:10 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:05:10 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:10 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:10 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:05:10 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:05:10 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:09:06 web:2063] 302 GET /logout (172.16.33.95) 0.00ms
+[I 180315 11:09:06 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180315 11:09:06 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180315 11:18:31 web:2063] 200 POST /login (172.16.33.95) 11.00ms
+[I 180315 11:18:31 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:18:31 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 3.00ms
+[W 180315 11:18:31 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 3.00ms
+[W 180315 11:18:31 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 3.00ms
+[W 180315 11:18:31 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 15.60ms
+[W 180315 11:18:31 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:18:37 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180315 11:18:37 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 1.00ms
+[W 180315 11:18:37 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180315 11:18:37 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 1.00ms
+[W 180315 11:18:37 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 1.00ms
+[I 180315 11:56:47 web:2063] 200 GET / (172.16.33.79) 2.00ms
+[W 180315 11:56:47 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 1.00ms
+[W 180315 11:56:47 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 2.00ms
+[W 180315 11:56:47 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 1.00ms
+[W 180315 11:56:48 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180315 11:56:48 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180315 11:56:50 web:2063] 200 GET / (172.16.33.95) 0.00ms
+[W 180315 11:56:50 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:56:50 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:56:50 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:56:50 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 15.60ms
+[W 180315 11:56:50 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:56:51 web:2063] 200 GET / (172.16.33.95) 15.60ms
+[W 180315 11:56:51 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:56:51 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:56:51 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.95) 0.00ms
+[W 180315 11:56:51 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.95) 0.00ms
+[W 180315 11:56:51 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.95) 0.00ms
+[I 180315 11:57:03 web:2063] 200 GET / (172.16.33.79) 17.60ms
+[W 180315 11:57:03 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180315 11:57:03 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 1.00ms
+[W 180315 11:57:03 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 3.00ms
+[W 180315 11:57:03 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180315 11:57:03 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180316 08:54:58 main:28] Load config file from : webssh.conf
+[I 180316 08:54:58 main:32] Listening on 172.16.33.79:8888
+[I 180316 09:03:22 main:28] Load config file from : webssh.conf
+[I 180316 09:03:22 main:32] Listening on 172.16.33.79:8888
+[I 180316 09:03:25 web:2063] 302 GET / (172.16.33.95) 15.60ms
+[E 180316 09:03:25 web:1590] Uncaught exception GET /login?next=%2F (172.16.33.95)
+    HTTPServerRequest(protocol='http', host='172.16.33.79:8888', method='GET', uri='/login?next=%2F', version='HTTP/1.1', remote_ip='172.16.33.95', headers={'Host': '172.16.33.79:8888', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'Referer': 'http://172.16.33.79:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate, sdch', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|5c1a8c92|8f2f95ebe025d131312abd4dad7821f6|1521076273; username_cookie="2|1:0|10:1521083911|15:username_cookie|4:emg=|82d7663d8c8f02621791d1d35592a672b0f75ae58c8d35169a5761d7beb78c5f"', 'If-None-Match': '"cea084845c9995db72878fc701f75b6038c6356b"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh\handlers.py", line 156, in get
+        self.render('login.html')
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\web.py", line 724, in render
+        html = self.render_string(template_name, **kwargs)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\web.py", line 862, in render_string
+        t = loader.load(template_name)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\template.py", line 427, in load
+        self.templates[name] = self._create_template(name)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\template.py", line 454, in _create_template
+        with open(path, "rb") as f:
+    FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Study\\Python\\webssh\\templates\\login.html'
+[E 180316 09:03:25 web:2063] 500 GET /login?next=%2F (172.16.33.95) 46.80ms
+[I 180316 09:03:50 main:28] Load config file from : webssh.conf
+[I 180316 09:03:50 main:32] Listening on 172.16.33.79:8888
+[I 180316 09:03:51 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 09:03:52 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 09:03:53 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 09:03:53 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 09:16:45 web:2063] 200 GET /login?next=%2F (172.16.33.95) 2.00ms
+[I 180316 09:16:45 web:2063] 200 GET /login?next=%2F (172.16.33.95) 3.00ms
+[W 180316 09:38:27 web:2063] 404 GET /favicon.ico (172.16.33.79) 0.00ms
+[I 180316 09:48:46 main:28] Load config file from : webssh.conf
+[I 180316 09:48:46 main:32] Listening on 172.16.33.79:8888
+[I 180316 09:48:48 web:2063] 200 GET /login?next=%2F (172.16.33.95) 31.20ms
+[I 180316 09:49:04 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 09:49:15 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 09:49:18 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 10:16:13 main:28] Load config file from : webssh.conf
+[I 180316 10:16:13 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:16:13 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 10:16:32 main:28] Load config file from : webssh.conf
+[I 180316 10:16:32 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:16:33 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 10:18:59 main:28] Load config file from : webssh.conf
+[I 180316 10:18:59 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:19:00 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 10:23:52 web:2063] 302 GET / (172.16.33.79) 0.00ms
+[I 180316 10:23:52 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:28:03 main:28] Load config file from : webssh.conf
+[I 180316 10:28:03 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:28:07 web:2063] 200 GET /login?next=%2F (172.16.33.79) 15.60ms
+[I 180316 10:28:07 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 533.00ms
+[I 180316 10:28:08 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:28:08 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 10:29:23 main:28] Load config file from : webssh.conf
+[I 180316 10:29:23 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:29:25 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:29:26 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 514.81ms
+[I 180316 10:29:28 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:29:28 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 10:32:43 main:28] Load config file from : webssh.conf
+[I 180316 10:32:43 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:32:45 web:2063] 200 GET /login?next=%2F (172.16.33.79) 5.00ms
+[I 180316 10:32:46 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 527.00ms
+[I 180316 10:32:46 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:32:46 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 10:32:47 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:32:47 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 3.00ms
+[I 180316 10:34:14 main:28] Load config file from : webssh.conf
+[I 180316 10:34:14 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:34:16 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:34:17 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 502.40ms
+[I 180316 10:36:52 main:28] Load config file from : webssh.conf
+[I 180316 10:36:52 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:36:56 web:2063] 200 GET /login?next=%2F (172.16.33.79) 15.60ms
+[I 180316 10:36:56 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 546.41ms
+[I 180316 10:37:27 main:28] Load config file from : webssh.conf
+[I 180316 10:37:27 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:37:30 web:2063] 200 GET /login?next=%2F (172.16.33.79) 5.00ms
+[I 180316 10:37:31 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 531.60ms
+[I 180316 10:53:49 main:28] Load config file from : webssh.conf
+[I 180316 10:53:49 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:53:56 web:2063] 200 GET /login?next=%2F (172.16.33.79) 16.60ms
+[I 180316 10:53:56 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 521.40ms
+[I 180316 10:53:57 web:2063] 200 GET /login?next=%2F (172.16.33.79) 1.00ms
+[I 180316 10:53:57 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 10:53:57 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:53:57 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 10:53:57 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:53:57 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 10:53:57 web:2063] 200 GET /login?next=%2F (172.16.33.79) 15.60ms
+[I 180316 10:53:57 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 10:54:10 main:28] Load config file from : webssh.conf
+[I 180316 10:54:10 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:54:12 web:2063] 200 GET /login?next=%2F (172.16.33.79) 15.60ms
+[I 180316 10:54:12 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 517.42ms
+[I 180316 10:54:53 main:28] Load config file from : webssh.conf
+[I 180316 10:54:53 main:32] Listening on 172.16.33.79:8888
+[I 180316 10:54:55 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 10:54:56 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 546.02ms
+[I 180316 11:17:49 main:28] Load config file from : webssh.conf
+[I 180316 11:17:49 main:32] Listening on 172.16.33.79:8888
+[I 180316 11:17:50 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[W 180316 11:17:50 web:2063] 404 GET /boat.gif (172.16.33.79) 1.00ms
+[I 180316 11:17:51 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 519.81ms
+[I 180316 11:17:52 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[W 180316 11:17:52 web:2063] 404 GET /boat.gif (172.16.33.79) 0.00ms
+[I 180316 11:17:52 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 3.00ms
+[I 180316 11:18:03 main:28] Load config file from : webssh.conf
+[I 180316 11:18:03 main:32] Listening on 172.16.33.79:8888
+[I 180316 11:18:04 web:2063] 200 GET /login?next=%2F (172.16.33.79) 4.00ms
+[W 180316 11:18:04 web:2063] 404 GET /boat.gif (172.16.33.79) 15.60ms
+[I 180316 11:18:04 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 522.00ms
+[I 180316 11:18:04 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[W 180316 11:18:04 web:2063] 404 GET /boat.gif (172.16.33.79) 1.00ms
+[I 180316 11:18:04 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 11:18:05 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[W 180316 11:18:05 web:2063] 404 GET /boat.gif (172.16.33.79) 3.00ms
+[I 180316 11:18:05 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 14:19:04 main:28] Load config file from : webssh.conf
+[I 180316 14:19:04 main:32] Listening on 172.16.33.79:8888
+[I 180316 14:19:07 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 14:19:07 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 552.81ms
+[I 180316 15:32:20 main:28] Load config file from : webssh.conf
+[I 180316 15:32:20 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:32:27 web:2063] 302 GET / (172.16.33.79) 2.00ms
+[I 180316 15:32:27 web:2063] 200 GET /login?next=%2F (172.16.33.79) 4.00ms
+[I 180316 15:33:53 main:28] Load config file from : webssh.conf
+[I 180316 15:33:53 main:32] Listening on 172.16.33.79:8888
+[W 180316 15:33:57 web:1587] 400 POST /login?next=%2F (172.16.33.79): Missing argument username
+[W 180316 15:33:57 web:2063] 400 POST /login?next=%2F (172.16.33.79) 0.00ms
+[W 180316 15:33:57 web:2063] 404 GET /favicon.ico (172.16.33.79) 2.00ms
+[W 180316 15:34:04 web:1587] 400 POST /login?next=%2F (172.16.33.79): Missing argument username
+[W 180316 15:34:04 web:2063] 400 POST /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 15:34:51 main:28] Load config file from : webssh.conf
+[I 180316 15:34:51 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:34:52 web:2063] 200 GET /login?next=%2F (172.16.33.79) 15.60ms
+[I 180316 15:34:53 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 559.61ms
+[I 180316 15:36:48 main:28] Load config file from : webssh.conf
+[I 180316 15:36:48 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:36:59 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 15:37:00 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 539.41ms
+[W 180316 15:37:13 web:1587] 400 POST /login?next=%2F (172.16.33.79): Missing argument username
+[W 180316 15:37:13 web:2063] 400 POST /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 15:37:28 main:28] Load config file from : webssh.conf
+[I 180316 15:37:28 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:37:30 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 15:37:31 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 532.61ms
+[W 180316 15:37:35 web:1587] 400 POST /login?next=%2F (172.16.33.79): Missing argument username
+[W 180316 15:37:35 web:2063] 400 POST /login?next=%2F (172.16.33.79) 0.00ms
+[I 180316 15:39:05 main:28] Load config file from : webssh.conf
+[I 180316 15:39:05 main:32] Listening on 172.16.33.79:8888
+[W 180316 15:39:13 web:1587] 400 POST /login?next=%2F (172.16.33.79): Missing argument username
+[W 180316 15:39:13 web:2063] 400 POST /login?next=%2F (172.16.33.79) 5.00ms
+[I 180316 15:39:18 web:2063] 200 GET /login (172.16.33.79) 3.00ms
+[W 180316 15:39:23 web:1587] 400 POST /login (172.16.33.79): Missing argument username
+[W 180316 15:39:23 web:2063] 400 POST /login (172.16.33.79) 0.00ms
+[I 180316 15:39:42 main:28] Load config file from : webssh.conf
+[I 180316 15:39:42 main:32] Listening on 172.16.33.79:8888
+[W 180316 15:39:47 web:1587] 400 POST /login (172.16.33.79): Missing argument username
+[W 180316 15:39:47 web:2063] 400 POST /login (172.16.33.79) 7.00ms
+[I 180316 15:39:50 web:2063] 200 GET /login (172.16.33.79) 0.00ms
+[I 180316 15:39:50 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 531.00ms
+[I 180316 15:39:51 web:2063] 200 GET /login (172.16.33.79) 0.00ms
+[I 180316 15:39:54 web:2063] 200 GET /login?_xsrf=2%7C3bc5c9ef%7C2794bc780444b42f66a3c79877344d08%7C1521167032 (172.16.33.79) 0.00ms
+[I 180316 15:40:06 web:2063] 200 GET /login?_xsrf=2%7C3bc5c9ef%7C2794bc780444b42f66a3c79877344d08%7C1521167032 (172.16.33.79) 0.00ms
+[I 180316 15:40:06 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 15:40:06 web:2063] 200 GET /login?_xsrf=2%7C3bc5c9ef%7C2794bc780444b42f66a3c79877344d08%7C1521167032 (172.16.33.79) 15.60ms
+[I 180316 15:40:06 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 15.60ms
+[I 180316 15:40:07 web:2063] 200 GET /login?_xsrf=2%7C3bc5c9ef%7C2794bc780444b42f66a3c79877344d08%7C1521167032 (172.16.33.79) 0.00ms
+[I 180316 15:40:07 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180316 15:40:07 web:2063] 200 GET /login?_xsrf=2%7C3bc5c9ef%7C2794bc780444b42f66a3c79877344d08%7C1521167032 (172.16.33.79) 0.00ms
+[I 180316 15:40:07 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 0.00ms
+[I 180316 15:40:13 web:2063] 200 GET /login?_xsrf=2%7C03d64875%7C1f873de23c5735b55eb046024f27cc92%7C1521167032 (172.16.33.79) 15.60ms
+[I 180316 15:40:21 web:2063] 302 GET / (172.16.33.79) 3.00ms
+[I 180316 15:40:21 web:2063] 200 GET /login?next=%2F (172.16.33.79) 1.00ms
+[I 180316 15:40:26 web:2063] 200 GET /login?_xsrf=2%7Cb5698b07%7Ca938fe908ae8f6c7e80f8570f9980fe0%7C1521167032 (172.16.33.79) 15.60ms
+[I 180316 15:40:29 web:2063] 200 GET /login?_xsrf=2%7Ce32525c9%7Cff74505edca45809be432bbeafd4a12e%7C1521167032 (172.16.33.79) 0.00ms
+[I 180316 15:40:56 web:2063] 200 GET /login?_xsrf=2%7Ce32525c9%7Cff74505edca45809be432bbeafd4a12e%7C1521167032 (172.16.33.79) 4.00ms
+[I 180316 15:41:03 web:2063] 200 GET /login (172.16.33.79) 3.00ms
+[I 180316 15:41:09 web:2063] 200 GET /login (172.16.33.79) 2.00ms
+[I 180316 15:41:23 web:2063] 200 GET /login (172.16.33.79) 3.00ms
+[I 180316 15:42:34 main:28] Load config file from : webssh.conf
+[I 180316 15:42:35 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:42:36 web:2063] 200 GET /login (172.16.33.79) 24.00ms
+[I 180316 15:42:43 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:42:43 web:2063] 200 GET / (172.16.33.79) 82.00ms
+[W 180316 15:42:43 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180316 15:42:43 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 1.00ms
+[W 180316 15:42:43 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 1.00ms
+[W 180316 15:42:43 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180316 15:42:43 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180316 15:42:45 web:2063] 200 GET /login (172.16.33.79) 1.00ms
+[I 180316 15:42:47 web:2063] 200 POST /login (172.16.33.79) 24.60ms
+[I 180316 15:43:38 main:28] Load config file from : webssh.conf
+[I 180316 15:43:38 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:43:54 main:28] Load config file from : webssh.conf
+[I 180316 15:43:54 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:43:59 web:2063] 200 GET /login (172.16.33.79) 4.00ms
+[I 180316 15:44:06 web:2063] 200 POST /login (172.16.33.79) 23.60ms
+[I 180316 15:44:06 web:2063] 200 GET / (172.16.33.79) 8.00ms
+[W 180316 15:44:06 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180316 15:44:06 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 2.00ms
+[W 180316 15:44:06 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 1.00ms
+[W 180316 15:44:06 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180316 15:44:06 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 3.00ms
+[I 180316 15:44:07 web:2063] 200 GET /login (172.16.33.79) 3.00ms
+[I 180316 15:44:12 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:44:21 web:2063] 200 GET /login?_xsrf=2%7C94d7aaf1%7C8886df66ab56d731c9b1a486d8262e16%7C1521167032 (172.16.33.79) 0.00ms
+[I 180316 15:44:28 web:2063] 200 POST /login (172.16.33.79) 0.00ms
+[I 180316 15:44:31 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:44:33 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:44:34 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:44:36 web:2063] 200 POST /login (172.16.33.79) 0.00ms
+[I 180316 15:44:47 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:44:48 web:2063] 200 POST /login (172.16.33.79) 24.60ms
+[I 180316 15:45:13 main:28] Load config file from : webssh.conf
+[I 180316 15:45:13 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:45:16 web:2063] 200 GET /login?_xsrf=2%7C94d7aaf1%7C8886df66ab56d731c9b1a486d8262e16%7C1521167032 (172.16.33.79) 5.00ms
+[I 180316 15:45:38 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:45:40 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:45:41 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:45:41 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:45:41 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:45:42 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:45:42 web:2063] 200 POST /login (172.16.33.79) 0.00ms
+[I 180316 15:45:43 web:2063] 200 POST /login (172.16.33.79) 18.00ms
+[I 180316 15:45:43 web:2063] 200 POST /login (172.16.33.79) 18.60ms
+[I 180316 15:45:53 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:45:53 web:2063] 200 POST /login (172.16.33.79) 23.60ms
+[I 180316 15:45:54 web:2063] 200 GET /login?_xsrf=2%7C94d7aaf1%7C8886df66ab56d731c9b1a486d8262e16%7C1521167032 (172.16.33.79) 2.00ms
+[I 180316 15:46:00 web:2063] 200 GET /login? (172.16.33.79) 1.00ms
+[I 180316 15:46:05 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:46:10 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:46:12 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:46:15 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 15:46:15 web:2063] 200 GET / (172.16.33.79) 19.60ms
+[W 180316 15:46:15 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180316 15:46:15 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 2.00ms
+[W 180316 15:46:15 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 1.00ms
+[W 180316 15:46:15 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180316 15:46:15 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 3.00ms
+[I 180316 15:48:05 main:28] Load config file from : webssh.conf
+[I 180316 15:48:05 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:48:10 web:2063] 200 GET /login? (172.16.33.79) 5.00ms
+[I 180316 15:48:32 main:28] Load config file from : webssh.conf
+[I 180316 15:48:32 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:48:33 web:2063] 200 GET /login? (172.16.33.79) 4.00ms
+[I 180316 15:59:15 main:28] Load config file from : webssh.conf
+[I 180316 15:59:15 main:32] Listening on 172.16.33.79:8888
+[I 180316 15:59:22 web:2063] 200 GET /login? (172.16.33.79) 5.00ms
+[I 180316 16:01:40 main:28] Load config file from : webssh.conf
+[I 180316 16:01:40 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:01:43 web:2063] 200 GET /login? (172.16.33.79) 4.00ms
+[I 180316 16:01:44 web:2063] 200 GET /login? (172.16.33.79) 2.00ms
+[I 180316 16:01:49 web:2063] 200 POST /login (172.16.33.79) 19.60ms
+[I 180316 16:01:50 web:2063] 200 GET /login? (172.16.33.79) 2.00ms
+[I 180316 16:02:36 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 16:02:36 web:2063] 200 GET / (172.16.33.79) 5.00ms
+[W 180316 16:02:36 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180316 16:02:36 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 2.00ms
+[W 180316 16:02:36 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 1.00ms
+[W 180316 16:02:36 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180316 16:02:36 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 1.00ms
+[I 180316 16:02:38 web:2063] 302 GET /logout (172.16.33.79) 0.00ms
+[I 180316 16:02:38 web:2063] 302 GET / (172.16.33.79) 2.00ms
+[I 180316 16:02:38 web:2063] 200 GET /login?next=%2F (172.16.33.79) 2.00ms
+[I 180316 16:02:40 web:2063] 200 GET /login?next=%2F (172.16.33.79) 2.00ms
+[I 180316 16:03:39 main:28] Load config file from : webssh.conf
+[I 180316 16:03:39 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:03:43 web:2063] 200 GET /login?next=%2F (172.16.33.79) 4.00ms
+[I 180316 16:03:45 web:2063] 200 GET /login?next=%2F (172.16.33.79) 2.00ms
+[I 180316 16:03:46 web:2063] 200 GET /login?next=%2F (172.16.33.79) 2.00ms
+[I 180316 16:03:50 web:2063] 200 GET /login?next=%2F (172.16.33.79) 1.00ms
+[I 180316 16:03:54 web:2063] 200 GET /login (172.16.33.79) 2.00ms
+[I 180316 16:03:57 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 16:07:05 main:28] Load config file from : webssh.conf
+[I 180316 16:07:05 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:07:07 web:2063] 200 GET /login (172.16.33.79) 4.00ms
+[I 180316 16:07:11 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 16:07:16 web:2063] 200 POST /login (172.16.33.79) 13.00ms
+[I 180316 16:07:16 web:2063] 200 GET / (172.16.33.79) 8.00ms
+[W 180316 16:07:16 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 3.00ms
+[W 180316 16:07:16 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 1.00ms
+[W 180316 16:07:16 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 2.00ms
+[W 180316 16:07:16 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180316 16:07:16 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180316 16:07:46 main:28] Load config file from : webssh.conf
+[I 180316 16:07:47 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:07:50 web:2063] 302 GET /logout (172.16.33.79) 2.00ms
+[I 180316 16:07:50 web:2063] 302 GET / (172.16.33.79) 1.00ms
+[I 180316 16:07:50 web:2063] 200 GET /login?next=%2F (172.16.33.79) 55.00ms
+[I 180316 16:07:59 web:2063] 200 POST /login (172.16.33.79) 20.60ms
+[I 180316 16:07:59 web:2063] 200 GET / (172.16.33.79) 8.00ms
+[W 180316 16:07:59 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180316 16:07:59 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 2.00ms
+[W 180316 16:07:59 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 1.00ms
+[W 180316 16:08:00 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 1.00ms
+[W 180316 16:08:00 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180316 16:11:12 main:28] Load config file from : webssh.conf
+[I 180316 16:11:12 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:11:15 web:2063] 302 GET /logout (172.16.33.79) 2.00ms
+[I 180316 16:11:15 web:2063] 302 GET / (172.16.33.79) 1.00ms
+[I 180316 16:11:15 web:2063] 200 GET /login?next=%2F (172.16.33.79) 4.00ms
+[I 180316 16:11:17 web:2063] 200 GET /login?next=%2F (172.16.33.79) 2.00ms
+[I 180316 16:13:18 web:2063] 200 GET /login?next=%2F (172.16.33.79) 3.00ms
+[I 180316 16:13:23 main:28] Load config file from : webssh.conf
+[I 180316 16:13:23 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:13:25 web:2063] 200 GET /login?next=%2F (172.16.33.79) 7.00ms
+[I 180316 16:14:32 main:28] Load config file from : webssh.conf
+[I 180316 16:14:32 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:14:35 web:2063] 200 GET /login?next=%2F (172.16.33.79) 5.00ms
+[I 180316 16:14:39 web:2063] 200 POST /login (172.16.33.79) 16.00ms
+[I 180316 16:16:15 web:2063] 200 GET /login?next=%2F (172.16.33.79) 3.00ms
+[I 180316 16:25:42 main:28] Load config file from : webssh.conf
+[I 180316 16:25:42 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:25:46 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[I 180316 16:26:07 main:28] Load config file from : webssh.conf
+[I 180316 16:26:07 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:26:09 web:2063] 200 GET /login?next=%2F (172.16.33.79) 7.00ms
+[I 180316 16:26:10 web:2063] 200 GET /login?next=%2F (172.16.33.79) 1.00ms
+[I 180316 16:26:26 main:28] Load config file from : webssh.conf
+[I 180316 16:26:26 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:26:29 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[I 180316 16:26:36 web:2063] 200 POST /login (172.16.33.79) 16.60ms
+[I 180316 16:27:02 main:28] Load config file from : webssh.conf
+[I 180316 16:27:02 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:27:38 main:28] Load config file from : webssh.conf
+[I 180316 16:27:38 main:32] Listening on 172.16.33.79:8888
+[I 180316 16:27:40 web:2063] 200 GET /login?next=%2F (172.16.33.79) 7.00ms
+[I 180316 16:27:42 web:2063] 200 POST /login (172.16.33.79) 0.00ms
+[I 180316 16:27:47 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 16:27:49 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 16:27:54 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180316 16:27:54 web:2063] 200 GET / (172.16.33.79) 7.00ms
+[W 180316 16:27:54 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[W 180316 16:27:54 web:2063] 404 GET /static/css/xterm.min.css.map (172.16.33.79) 1.00ms
+[W 180316 16:27:54 web:2063] 404 GET /static/css/fullscreen.min.css.map (172.16.33.79) 1.00ms
+[W 180316 16:27:54 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 1.00ms
+[W 180316 16:27:54 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180316 16:28:10 web:2063] 302 GET /logout (172.16.33.79) 9.00ms
+[I 180316 16:28:10 web:2063] 302 GET / (172.16.33.79) 1.00ms
+[I 180316 16:28:10 web:2063] 200 GET /login?next=%2F (172.16.33.79) 1.00ms
+[I 180316 17:09:19 main:28] Load config file from : webssh.conf
+[I 180316 17:09:19 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:09:26 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[I 180316 17:09:37 main:28] Load config file from : webssh.conf
+[I 180316 17:09:37 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:09:38 web:2063] 200 GET /login?next=%2F (172.16.33.79) 16.60ms
+[I 180316 17:10:19 main:28] Load config file from : webssh.conf
+[I 180316 17:10:19 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:10:21 web:2063] 200 GET /login?next=%2F (172.16.33.79) 5.00ms
+[I 180316 17:10:43 main:28] Load config file from : webssh.conf
+[I 180316 17:10:43 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:10:48 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[I 180316 17:11:08 web:2063] 200 POST /login (172.16.33.79) 0.00ms
+[I 180316 17:11:42 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180316 17:11:42 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:11:56 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[E 180316 17:11:59 web:1590] Uncaught exception POST /login (172.16.33.95)
+    HTTPServerRequest(protocol='http', host='172.16.33.79:8888', method='POST', uri='/login', version='HTTP/1.1', remote_ip='172.16.33.95', headers={'Host': '172.16.33.79:8888', 'Connection': 'keep-alive', 'Content-Length': '99', 'Accept': '*/*', 'Origin': 'http://172.16.33.79:8888', 'X-Requested-With': 'XMLHttpRequest', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Referer': 'http://172.16.33.79:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|5c1a8c92|8f2f95ebe025d131312abd4dad7821f6|1521076273; username_cookie="2|1:0|10:1521083911|15:username_cookie|4:emg=|82d7663d8c8f02621791d1d35592a672b0f75ae58c8d35169a5761d7beb78c5f"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh\handlers.py", line 162, in post
+        user_infos = db.get_all("select * from td_user_info where username = '" + username + "'")
+      File "D:\Study\Python\webssh\dbutil.py", line 16, in get_all
+        self.cur.execute(sql)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\cursors.py", line 165, in execute
+        result = self._query(query)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\cursors.py", line 321, in _query
+        conn.query(q)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 860, in query
+        self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+        result.read()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1349, in read
+        first_packet = self.connection._read_packet()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+        packet.check_error()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 384, in check_error
+        err.raise_mysql_exception(self._data)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+        raise errorclass(errno, errval)
+    pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''sdfs\\'' at line 1")
+[E 180316 17:11:59 web:2063] 500 POST /login (172.16.33.95) 109.20ms
+[E 180316 17:12:04 web:1590] Uncaught exception POST /login (172.16.33.95)
+    HTTPServerRequest(protocol='http', host='172.16.33.79:8888', method='POST', uri='/login', version='HTTP/1.1', remote_ip='172.16.33.95', headers={'Host': '172.16.33.79:8888', 'Connection': 'keep-alive', 'Content-Length': '99', 'Accept': '*/*', 'Origin': 'http://172.16.33.79:8888', 'X-Requested-With': 'XMLHttpRequest', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Referer': 'http://172.16.33.79:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|5c1a8c92|8f2f95ebe025d131312abd4dad7821f6|1521076273; username_cookie="2|1:0|10:1521083911|15:username_cookie|4:emg=|82d7663d8c8f02621791d1d35592a672b0f75ae58c8d35169a5761d7beb78c5f"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh\handlers.py", line 162, in post
+        user_infos = db.get_all("select * from td_user_info where username = '" + username + "'")
+      File "D:\Study\Python\webssh\dbutil.py", line 16, in get_all
+        self.cur.execute(sql)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\cursors.py", line 165, in execute
+        result = self._query(query)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\cursors.py", line 321, in _query
+        conn.query(q)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 860, in query
+        self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+        result.read()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1349, in read
+        first_packet = self.connection._read_packet()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+        packet.check_error()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 384, in check_error
+        err.raise_mysql_exception(self._data)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+        raise errorclass(errno, errval)
+    pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''sdfs\\'' at line 1")
+[E 180316 17:12:04 web:2063] 500 POST /login (172.16.33.95) 15.60ms
+[I 180316 17:12:07 web:2063] 200 POST /login (172.16.33.95) 15.60ms
+[I 180316 17:12:10 web:2063] 200 POST /login (172.16.33.95) 0.00ms
+[E 180316 17:12:13 web:1590] Uncaught exception POST /login (172.16.33.95)
+    HTTPServerRequest(protocol='http', host='172.16.33.79:8888', method='POST', uri='/login', version='HTTP/1.1', remote_ip='172.16.33.95', headers={'Host': '172.16.33.79:8888', 'Connection': 'keep-alive', 'Content-Length': '99', 'Accept': '*/*', 'Origin': 'http://172.16.33.79:8888', 'X-Requested-With': 'XMLHttpRequest', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Referer': 'http://172.16.33.79:8888/login?next=%2F', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6', 'Cookie': '_xsrf=2|5c1a8c92|8f2f95ebe025d131312abd4dad7821f6|1521076273; username_cookie="2|1:0|10:1521083911|15:username_cookie|4:emg=|82d7663d8c8f02621791d1d35592a672b0f75ae58c8d35169a5761d7beb78c5f"'})
+    Traceback (most recent call last):
+      File "D:\Study\Python\webssh\venv\lib\site-packages\tornado\web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "D:\Study\Python\webssh\handlers.py", line 162, in post
+        user_infos = db.get_all("select * from td_user_info where username = '" + username + "'")
+      File "D:\Study\Python\webssh\dbutil.py", line 16, in get_all
+        self.cur.execute(sql)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\cursors.py", line 165, in execute
+        result = self._query(query)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\cursors.py", line 321, in _query
+        conn.query(q)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 860, in query
+        self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1061, in _read_query_result
+        result.read()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1349, in read
+        first_packet = self.connection._read_packet()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 1018, in _read_packet
+        packet.check_error()
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\connections.py", line 384, in check_error
+        err.raise_mysql_exception(self._data)
+      File "D:\Study\Python\webssh\venv\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+        raise errorclass(errno, errval)
+    pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''sdfs\\'' at line 1")
+[E 180316 17:12:13 web:2063] 500 POST /login (172.16.33.95) 15.60ms
+[I 180316 17:13:21 main:28] Load config file from : webssh.conf
+[I 180316 17:13:21 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:13:23 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:13:23 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 530.40ms
+[I 180316 17:13:38 main:28] Load config file from : webssh.conf
+[I 180316 17:13:38 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:13:38 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:13:39 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 546.00ms
+[I 180316 17:14:21 main:28] Load config file from : webssh.conf
+[I 180316 17:14:21 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:17:59 main:28] Load config file from : webssh.conf
+[I 180316 17:17:59 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:18:01 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:18:02 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 546.00ms
+[I 180316 17:18:03 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:18:03 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 0.00ms
+[I 180316 17:18:43 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:18:45 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:18:46 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:18:49 main:28] Load config file from : webssh.conf
+[I 180316 17:18:49 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:18:50 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:18:51 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:18:51 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:18:52 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:18:56 main:28] Load config file from : webssh.conf
+[I 180316 17:18:56 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:18:57 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:18:58 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:19:12 main:28] Load config file from : webssh.conf
+[I 180316 17:19:12 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:19:15 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:19:15 web:2063] 200 GET /static/js/login.js?v=255d13adbbad989723b75626eccc7b29 (172.16.33.95) 546.00ms
+[I 180316 17:19:15 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:19:16 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:19:20 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:19:28 main:28] Load config file from : webssh.conf
+[I 180316 17:19:28 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:19:30 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:19:30 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:26:09 main:28] Load config file from : webssh.conf
+[I 180316 17:26:09 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:26:10 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:26:50 main:28] Load config file from : webssh.conf
+[I 180316 17:26:50 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:26:50 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:27:23 main:28] Load config file from : webssh.conf
+[I 180316 17:27:23 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:27:23 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:27:23 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 546.00ms
+[I 180316 17:27:32 main:28] Load config file from : webssh.conf
+[I 180316 17:27:33 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:27:34 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:27:34 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 561.60ms
+[I 180316 17:27:56 main:28] Load config file from : webssh.conf
+[I 180316 17:27:56 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:27:57 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:27:58 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 561.60ms
+[I 180316 17:28:00 web:2063] 200 GET /login?next=%2F (172.16.33.95) 15.60ms
+[I 180316 17:28:00 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 0.00ms
+[I 180316 17:28:08 main:28] Load config file from : webssh.conf
+[I 180316 17:28:08 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:28:09 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180316 17:28:09 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.95) 530.40ms
+[I 180316 17:28:24 main:28] Load config file from : webssh.conf
+[I 180316 17:28:24 main:32] Listening on 172.16.33.79:8888
+[I 180316 17:29:33 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[I 180319 11:31:52 main:28] Load config file from : webssh.conf
+[I 180319 11:31:52 main:32] Listening on 172.16.33.79:8888
+[I 180319 11:32:00 web:2063] 302 GET / (172.16.33.79) 1.00ms
+[I 180319 11:32:00 web:2063] 200 GET /login?next=%2F (172.16.33.79) 4.00ms
+[I 180319 11:32:16 web:2063] 200 POST /login (172.16.33.79) 14.00ms
+[I 180319 11:32:19 web:2063] 200 POST /login (172.16.33.79) 0.00ms
+[I 180319 11:32:24 web:2063] 200 POST /login (172.16.33.79) 19.60ms
+[I 180319 11:33:02 main:28] Load config file from : webssh.conf
+[I 180319 11:33:02 main:32] Listening on 172.16.33.79:8888
+[I 180319 11:33:03 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[I 180319 11:33:04 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 574.02ms
+[I 180319 11:35:05 main:28] Load config file from : webssh.conf
+[I 180319 11:35:05 main:32] Listening on 172.16.33.79:8888
+[I 180319 11:35:08 web:2063] 200 GET /login?next=%2F (172.16.33.79) 44.20ms
+[I 180319 11:35:09 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 548.81ms
+[W 180319 11:35:11 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180319 11:35:11 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180319 11:35:13 web:2063] 200 GET /login?next=%2F (172.16.33.79) 4.00ms
+[W 180319 11:35:13 web:2063] 404 GET /static/js/popper.min.js.map (172.16.33.79) 2.00ms
+[W 180319 11:35:13 web:2063] 404 GET /static/js/bootstrap.min.js.map (172.16.33.79) 2.00ms
+[I 180319 11:35:54 web:2063] 200 POST /login (172.16.33.79) 20.00ms
+[I 180319 11:35:56 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180319 11:35:56 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180319 11:35:56 web:2063] 200 POST /login (172.16.33.79) 15.60ms
+[I 180319 11:35:57 web:2063] 200 POST /login (172.16.33.79) 18.00ms
+[I 180319 11:43:14 main:28] Load config file from : webssh.conf
+[I 180319 11:43:14 main:32] Listening on 172.16.33.79:8888
+[E 180319 11:43:18 web:2746] Could not open static file 'D:\\Study\\Python\\webssh\\static\\js\\popper.min.js'
+[E 180319 11:43:18 web:2746] Could not open static file 'D:\\Study\\Python\\webssh\\static\\js\\bootstrap.min.js'
+[I 180319 11:43:18 web:2063] 200 GET /login?next=%2F (172.16.33.79) 15.60ms
+[W 180319 11:43:18 web:2063] 404 GET /static/js/popper.min.js (172.16.33.79) 2.00ms
+[W 180319 11:43:18 web:2063] 404 GET /static/js/bootstrap.min.js (172.16.33.79) 2.00ms
+[I 180319 11:43:18 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 644.23ms
+[I 180319 11:43:25 web:2063] 200 POST /login (172.16.33.79) 0.00ms
+[I 180319 11:44:54 main:28] Load config file from : webssh.conf
+[I 180319 11:44:54 main:32] Listening on 172.16.33.79:8888
+[I 180319 11:44:58 web:2063] 200 GET /login?next=%2F (172.16.33.79) 9.00ms
+[I 180319 11:44:59 web:2063] 200 GET /static/js/bootstrap.min.js?v=5869c96cc8f19086aee625d670d741f9 (172.16.33.79) 617.02ms
+[I 180319 11:44:59 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 0.00ms
+[I 180319 11:45:01 web:2063] 200 GET /login?next=%2F (172.16.33.79) 1.00ms
+[I 180319 11:45:03 web:2063] 200 GET /login?next=%2F (172.16.33.79) 3.00ms
+[I 180319 13:34:29 main:28] Load config file from : webssh.conf
+[I 180319 13:34:29 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:34:31 web:2063] 200 GET /login?next=%2F (172.16.33.79) 7.00ms
+[I 180319 13:34:32 web:2063] 200 GET /static/css/bootstrap.min.css?v=ec3bb52a00e176a7181d454dffaea219 (172.16.33.79) 577.42ms
+[W 180319 13:34:32 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:34:43 web:2063] 200 GET /login?next=%2F (172.16.33.79) 0.00ms
+[W 180319 13:34:43 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:34:47 main:28] Load config file from : webssh.conf
+[I 180319 13:34:47 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:34:49 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[W 180319 13:34:49 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:38:38 main:28] Load config file from : webssh.conf
+[I 180319 13:38:38 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:38:40 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[W 180319 13:38:40 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:39:16 main:28] Load config file from : webssh.conf
+[I 180319 13:39:16 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:39:18 web:2063] 200 GET /login?next=%2F (172.16.33.79) 6.00ms
+[W 180319 13:39:18 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:39:27 main:28] Load config file from : webssh.conf
+[I 180319 13:39:27 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:39:28 web:2063] 200 GET /login?next=%2F (172.16.33.79) 10.00ms
+[W 180319 13:39:28 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:42:16 main:28] Load config file from : webssh.conf
+[I 180319 13:42:16 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:42:19 web:2063] 200 GET /login?next=%2F (172.16.33.79) 18.60ms
+[W 180319 13:42:19 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:46:34 main:28] Load config file from : webssh.conf
+[I 180319 13:46:34 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:46:35 web:2063] 200 GET /login?next=%2F (172.16.33.79) 5.00ms
+[W 180319 13:46:35 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:46:40 web:2063] 200 GET /login? (172.16.33.79) 0.00ms
+[W 180319 13:46:40 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:46:41 web:2063] 200 GET /login? (172.16.33.79) 2.00ms
+[W 180319 13:46:41 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:54:56 main:28] Load config file from : webssh.conf
+[I 180319 13:54:56 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:54:57 web:2063] 200 GET /login? (172.16.33.79) 7.00ms
+[I 180319 13:54:58 web:2063] 200 GET /static/css/signin.css?v=4ff4667287d828e3467748ccf340dbef (172.16.33.79) 557.42ms
+[W 180319 13:54:58 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 13:55:12 web:2063] 200 GET /login? (172.16.33.79) 0.00ms
+[W 180319 13:55:13 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 1.00ms
+[I 180319 13:55:15 main:28] Load config file from : webssh.conf
+[I 180319 13:55:15 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:55:16 web:2063] 200 GET /login? (172.16.33.79) 14.00ms
+[W 180319 13:55:16 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 1.00ms
+[I 180319 13:58:26 main:28] Load config file from : webssh.conf
+[I 180319 13:58:26 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:58:27 web:2063] 200 GET /login? (172.16.33.79) 0.00ms
+[I 180319 13:58:28 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 580.83ms
+[I 180319 13:58:44 main:28] Load config file from : webssh.conf
+[I 180319 13:58:44 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:58:44 web:2063] 200 GET /login? (172.16.33.79) 18.60ms
+[I 180319 13:58:45 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 574.43ms
+[I 180319 13:58:56 main:28] Load config file from : webssh.conf
+[I 180319 13:58:56 main:32] Listening on 172.16.33.79:8888
+[I 180319 13:58:57 web:2063] 200 GET /login? (172.16.33.79) 15.60ms
+[I 180319 13:58:57 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 568.02ms
+[I 180319 14:07:17 main:28] Load config file from : webssh.conf
+[I 180319 14:07:17 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:07:18 web:2063] 200 GET /login? (172.16.33.79) 15.60ms
+[I 180319 14:07:18 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 562.63ms
+[I 180319 14:07:22 web:2063] 200 POST /login (172.16.33.79) 11.00ms
+[I 180319 14:07:23 web:2063] 200 POST /login (172.16.33.79) 14.00ms
+[I 180319 14:07:23 web:2063] 200 POST /login (172.16.33.79) 35.00ms
+[I 180319 14:07:23 web:2063] 200 POST /login (172.16.33.79) 10.00ms
+[I 180319 14:08:35 main:28] Load config file from : webssh.conf
+[I 180319 14:08:35 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:08:41 main:28] Load config file from : webssh.conf
+[I 180319 14:08:41 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:08:42 web:2063] 200 GET /login? (172.16.33.79) 6.00ms
+[I 180319 14:08:42 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 564.63ms
+[I 180319 14:08:54 main:28] Load config file from : webssh.conf
+[I 180319 14:08:54 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:08:55 web:2063] 200 GET /login? (172.16.33.79) 17.60ms
+[I 180319 14:08:55 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 569.42ms
+[I 180319 14:08:59 web:2063] 200 POST /login (172.16.33.79) 15.00ms
+[I 180319 14:09:25 main:28] Load config file from : webssh.conf
+[I 180319 14:09:25 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:09:26 web:2063] 200 GET /login? (172.16.33.79) 17.60ms
+[I 180319 14:09:26 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 546.62ms
+[I 180319 14:09:29 web:2063] 200 POST /login (172.16.33.79) 12.00ms
+[I 180319 14:10:11 main:28] Load config file from : webssh.conf
+[I 180319 14:10:11 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:10:12 web:2063] 200 GET /login? (172.16.33.79) 15.60ms
+[I 180319 14:10:13 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 555.62ms
+[I 180319 14:12:09 main:28] Load config file from : webssh.conf
+[I 180319 14:12:09 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:12:12 web:2063] 200 GET /login? (172.16.33.79) 15.60ms
+[I 180319 14:12:12 web:2063] 200 GET /static/css/signin.css?v=b75451582367e44becc200875de30ed3 (172.16.33.79) 576.43ms
+[I 180319 14:12:12 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.79) 2.00ms
+[I 180319 14:12:18 main:28] Load config file from : webssh.conf
+[I 180319 14:12:18 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:13:23 web:2063] 200 POST /login (172.16.33.79) 16.00ms
+[I 180319 14:13:23 web:2063] 200 GET / (172.16.33.79) 36.00ms
+[I 180319 14:13:27 web:2063] 200 POST /login (172.16.33.79) 14.00ms
+[W 180319 14:17:11 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 1.00ms
+[I 180319 14:24:35 main:28] Load config file from : webssh.conf
+[I 180319 14:24:35 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:24:38 web:2063] 200 GET /login? (172.16.33.79) 9.00ms
+[I 180319 14:24:39 web:2063] 200 GET /static/js/login.js?v=8ba66cb0913320351b325a70fa6a7c59 (172.16.33.79) 621.04ms
+[W 180319 14:24:39 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 3.00ms
+[I 180319 14:25:35 main:28] Load config file from : webssh.conf
+[I 180319 14:25:35 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:25:36 web:2063] 200 GET /login? (172.16.33.79) 5.00ms
+[W 180319 14:25:36 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 1.00ms
+[I 180319 14:25:38 web:2063] 200 GET /login? (172.16.33.79) 0.00ms
+[W 180319 14:25:38 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:28:30 web:2063] 200 GET /login? (172.16.33.79) 1.00ms
+[W 180319 14:28:30 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 1.00ms
+[I 180319 14:28:35 main:28] Load config file from : webssh.conf
+[I 180319 14:28:35 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:28:36 web:2063] 200 GET /login? (172.16.33.79) 19.60ms
+[W 180319 14:28:36 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:35:11 main:28] Load config file from : webssh.conf
+[I 180319 14:35:12 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:35:12 web:2063] 200 GET /login? (172.16.33.79) 25.60ms
+[W 180319 14:35:12 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:37:21 main:28] Load config file from : webssh.conf
+[I 180319 14:37:21 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:37:22 web:2063] 200 GET /login? (172.16.33.79) 17.60ms
+[W 180319 14:37:22 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:37:23 web:2063] 200 GET /login? (172.16.33.79) 0.00ms
+[W 180319 14:37:23 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:38:18 web:2063] 200 GET /login? (172.16.33.79) 2.00ms
+[W 180319 14:38:18 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:38:22 main:28] Load config file from : webssh.conf
+[I 180319 14:38:22 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:38:23 web:2063] 200 GET /login? (172.16.33.79) 18.60ms
+[W 180319 14:38:23 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:38:36 web:2063] 200 GET /login? (172.16.33.79) 0.00ms
+[W 180319 14:38:36 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:39:15 main:28] Load config file from : webssh.conf
+[I 180319 14:39:15 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:39:16 web:2063] 200 GET /login? (172.16.33.79) 22.60ms
+[I 180319 14:39:17 web:2063] 200 GET /static/css/signin.css?v=0498e6d7cc8762e9549566eb107bfb3e (172.16.33.79) 568.82ms
+[W 180319 14:39:17 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:39:17 web:2063] 200 GET /login? (172.16.33.79) 0.00ms
+[W 180319 14:39:18 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 2.00ms
+[I 180319 14:39:19 web:2063] 200 GET /login? (172.16.33.79) 4.00ms
+[W 180319 14:39:19 web:2063] 404 GET /static/css/bootstrap.min.css.map (172.16.33.79) 1.00ms
+[I 180319 14:40:16 main:28] Load config file from : webssh.conf
+[I 180319 14:40:16 main:32] Listening on 172.16.33.79:8888
+[I 180319 14:40:22 web:2063] 200 POST /login (172.16.33.79) 11.00ms
+[I 180319 14:40:27 web:2063] 200 POST /login (172.16.33.79) 11.00ms
+[I 180319 14:40:27 web:2063] 200 GET / (172.16.33.79) 6.00ms
+[I 180319 15:19:43 web:2063] 302 GET /logout (172.16.33.79) 0.00ms
+[I 180319 15:19:43 web:2063] 302 GET / (172.16.33.79) 1.00ms
+[I 180319 15:19:43 web:2063] 200 GET /login?next=%2F (172.16.33.79) 3.00ms
+[I 180321 10:22:05 main:28] Load config file from : webssh.conf
+[I 180321 10:22:05 main:32] Listening on 172.16.33.79:8888
+[I 180321 10:22:38 web:2063] 302 GET / (172.16.33.79) 2.00ms
+[I 180321 10:22:38 web:2063] 200 GET /login?next=%2F (172.16.33.79) 99.80ms
+[I 180321 10:23:13 web:2063] 302 GET / (172.16.33.145) 15.60ms
+[I 180321 10:23:13 web:2063] 200 GET /login?next=%2F (172.16.33.145) 0.00ms
+[I 180321 10:23:14 web:2063] 200 GET /static/css/bootstrap.min.css?v=ec3bb52a00e176a7181d454dffaea219 (172.16.33.145) 533.40ms
+[I 180321 10:23:14 web:2063] 200 GET /static/js/jquery.min.js?v=378087a64e1394fc51f300bb9c11878c (172.16.33.145) 0.00ms
+[I 180321 10:23:14 web:2063] 200 GET /static/js/bootstrap.min.js?v=5869c96cc8f19086aee625d670d741f9 (172.16.33.145) 0.00ms
+[I 180321 10:23:14 web:2063] 200 GET /static/js/login.js?v=8ba66cb0913320351b325a70fa6a7c59 (172.16.33.145) 0.00ms
+[I 180321 10:23:14 web:2063] 200 GET /static/css/signin.css?v=0498e6d7cc8762e9549566eb107bfb3e (172.16.33.145) 0.00ms
+[I 180321 10:23:14 web:2063] 200 GET /static/img/favicon.png?v=d9bb4e7a8b193d05b55549bff1556185 (172.16.33.145) 0.00ms
+[I 180321 10:23:54 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180321 10:23:54 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180321 10:23:54 web:2063] 200 GET /static/css/bootstrap.min.css?v=ec3bb52a00e176a7181d454dffaea219 (172.16.33.95) 0.00ms
+[I 180321 10:23:54 web:2063] 200 GET /static/js/login.js?v=8ba66cb0913320351b325a70fa6a7c59 (172.16.33.95) 15.60ms
+[I 180321 10:23:54 web:2063] 200 GET /static/css/signin.css?v=0498e6d7cc8762e9549566eb107bfb3e (172.16.33.95) 0.00ms
+[I 180321 10:23:54 web:2063] 200 GET /static/js/bootstrap.min.js?v=5869c96cc8f19086aee625d670d741f9 (172.16.33.95) 0.00ms
+[I 180321 10:24:15 web:2063] 302 GET / (172.16.33.155) 0.00ms
+[I 180321 10:24:16 web:2063] 200 GET /login?next=%2F (172.16.33.155) 0.00ms
+[I 180321 10:24:16 web:2063] 200 GET /static/css/bootstrap.min.css?v=ec3bb52a00e176a7181d454dffaea219 (172.16.33.155) 0.00ms
+[I 180321 10:24:16 web:2063] 200 GET /static/js/bootstrap.min.js?v=5869c96cc8f19086aee625d670d741f9 (172.16.33.155) 16.60ms
+[I 180321 10:24:16 web:2063] 200 GET /static/css/signin.css?v=0498e6d7cc8762e9549566eb107bfb3e (172.16.33.155) 3.00ms
+[I 180321 10:24:16 web:2063] 200 GET /static/js/login.js?v=8ba66cb0913320351b325a70fa6a7c59 (172.16.33.155) 3.00ms
+[I 180321 10:24:16 web:2063] 200 GET /static/js/jquery.min.js?v=378087a64e1394fc51f300bb9c11878c (172.16.33.155) 2.00ms
+[I 180321 10:24:33 web:2063] 200 POST /login (172.16.33.155) 15.60ms
+[I 180321 10:24:33 web:2063] 200 GET / (172.16.33.155) 109.20ms
+[I 180321 10:24:33 web:2063] 200 GET /static/css/xterm.min.css?v=a9c9531d17671da6ae33aeca1575b75e (172.16.33.155) 15.60ms
+[I 180321 10:24:33 web:2063] 200 GET /static/js/main.js?v=95b85272e8b95ee5f8c4e0050e02a4bc (172.16.33.155) 0.00ms
+[I 180321 10:24:33 web:2063] 200 GET /static/js/xterm.min.js?v=99455b9df4fdabf33042967a073e8a94 (172.16.33.155) 0.00ms
+[I 180321 10:24:33 web:2063] 200 GET /static/js/fullscreen.min.js?v=bc01408dc7e2d5ad35036730a0a99fc9 (172.16.33.155) 0.00ms
+[I 180321 10:24:34 web:2063] 200 GET /static/css/fullscreen.min.css?v=2ae17f7e19bc0ed8fd3486ed110cdce5 (172.16.33.155) 15.60ms
+[I 180321 10:24:40 web:2063] 302 GET /logout (172.16.33.155) 0.00ms
+[I 180321 10:24:40 web:2063] 302 GET / (172.16.33.155) 0.00ms
+[I 180321 10:24:40 web:2063] 200 GET /login?next=%2F (172.16.33.155) 0.00ms
+[I 180321 10:29:20 web:2063] 302 GET / (172.16.33.155) 0.00ms
+[I 180321 10:29:20 web:2063] 200 GET /login?next=%2F (172.16.33.155) 0.00ms
+[I 180321 10:29:38 web:2063] 200 POST /login (172.16.33.155) 15.60ms
+[I 180321 10:29:39 web:2063] 200 POST /login (172.16.33.155) 15.60ms
+[I 180321 10:29:41 web:2063] 200 POST /login (172.16.33.155) 31.20ms
+[I 180321 10:29:43 web:2063] 200 POST /login (172.16.33.155) 31.20ms
+[I 180321 10:29:43 web:2063] 200 POST /login (172.16.33.155) 15.60ms
+[I 180321 10:43:02 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180321 10:43:02 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180321 11:02:49 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180321 11:02:49 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180321 11:03:17 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180321 11:03:17 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180321 11:03:45 web:2063] 302 GET / (172.16.33.155) 0.00ms
+[I 180321 11:03:45 web:2063] 200 GET /login?next=%2F (172.16.33.155) 0.00ms
+[I 180321 11:03:45 web:2063] 200 GET /static/css/bootstrap.min.css?v=ec3bb52a00e176a7181d454dffaea219 (172.16.33.155) 0.00ms
+[I 180321 11:03:45 web:2063] 200 GET /static/css/signin.css?v=0498e6d7cc8762e9549566eb107bfb3e (172.16.33.155) 0.00ms
+[I 180321 11:03:46 web:2063] 200 GET /static/js/bootstrap.min.js?v=5869c96cc8f19086aee625d670d741f9 (172.16.33.155) 15.60ms
+[I 180321 11:03:46 web:2063] 200 GET /static/js/jquery.min.js?v=378087a64e1394fc51f300bb9c11878c (172.16.33.155) 0.00ms
+[I 180321 11:03:46 web:2063] 200 GET /static/js/login.js?v=8ba66cb0913320351b325a70fa6a7c59 (172.16.33.155) 0.00ms
+[I 180321 11:04:31 web:2063] 302 GET / (172.16.33.155) 0.00ms
+[I 180321 11:04:31 web:2063] 200 GET /login?next=%2F (172.16.33.155) 0.00ms
+[I 180321 11:05:25 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180321 11:05:25 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180321 11:47:16 web:2063] 302 GET / (172.16.33.145) 0.00ms
+[I 180321 11:47:16 web:2063] 200 GET /login?next=%2F (172.16.33.145) 0.00ms
+[I 180321 11:54:33 web:2063] 302 GET / (172.16.33.95) 0.00ms
+[I 180321 11:54:33 web:2063] 200 GET /login?next=%2F (172.16.33.95) 0.00ms
+[I 180321 11:54:42 web:2063] 302 GET / (172.16.33.79) 1.00ms
+[I 180321 11:54:42 web:2063] 200 GET /login?next=%2F (172.16.33.79) 2.00ms
+[I 180321 12:36:37 web:2063] 302 GET / (172.16.33.155) 0.00ms
+[I 180321 12:36:37 web:2063] 200 GET /login?next=%2F (172.16.33.155) 0.00ms
+[I 180326 15:14:06 main:28] Load config file from : webssh.conf
+[I 180326 15:14:06 main:32] Listening on 172.16.33.79:8888

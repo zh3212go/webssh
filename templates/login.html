@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>WebSSH</title>
+    <link href="{{ static_url('img/favicon.png') }}" rel="icon" type="image/png">
+    <link href="{{ static_url('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ static_url('css/signin.css') }}" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+
+    <form>
+        {% raw xsrf_form_html() %}
+        <h2 class="text-center"> 欢迎登陆</h2>
+        <div class="form-group">
+            <label for="username" class="sr-only">用户名</label>
+            <input type="text" id="username" class="form-control" placeholder="用户名" required autofocus>
+        </div>
+        <div class="form-group">
+            <label for="password" class="sr-only">密码</label>
+            <input type="password" id="password" class="form-control" placeholder="密码" required>
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" value="remember-me"> Remember me
+            </label>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="submit" id="loginBtn">登录</button>
+    </form>
+
+</div>
+
+<script src="{{ static_url('js/jquery.min.js') }}"></script>
+<script src="{{ static_url('js/bootstrap.min.js') }}"></script>
+<script src="{{ static_url('js/login.js') }}"></script>
+</body>
+</html>
